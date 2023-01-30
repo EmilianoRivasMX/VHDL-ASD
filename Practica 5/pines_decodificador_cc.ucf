@@ -1,0 +1,14 @@
+# Entradas
+net "W" loc = "p5";
+net "X" loc = "p6";
+net "Y" loc = "p7";
+net "Z" loc = "p8";
+
+# Salidas
+net "a" loc = "p9";
+net "b" loc = "p10";
+net "c" loc = "p11";
+net "d" loc = "p12";
+net "e" loc = "p14";
+net "f" loc = "p15";
+net "g" loc = "p16";

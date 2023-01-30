@@ -1,0 +1,14 @@
+# Entradas
+net "X(3)" loc = "p5";
+net "X(2)" loc = "p6";
+net "X(1)" loc = "p7";
+net "X(0)" loc = "p8";
+
+# Salidas
+net "display(6)" loc = "p9";
+net "display(5)" loc = "p10";
+net "display(4)" loc = "p11";
+net "display(3)" loc = "p12";
+net "display(2)" loc = "p14";
+net "display(1)" loc = "p15";
+net "display(0)" loc = "p16";
