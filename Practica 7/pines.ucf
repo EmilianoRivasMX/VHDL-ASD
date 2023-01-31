@@ -1,0 +1,2 @@
+net "clk"   loc = "p56";
+net "clkHZ" loc = "p123";
