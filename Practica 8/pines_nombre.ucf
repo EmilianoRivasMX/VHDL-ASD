@@ -1,0 +1,18 @@
+net "clk" loc = "p56";
+
+net "display(15)" loc = "p5";
+net "display(14)" loc = "p6";
+net "display(13)" loc = "p7";
+net "display(12)" loc = "p8";
+net "display(11)" loc = "p9";
+net "display(10)" loc = "p10";
+net "display(9)" loc = "p11";
+net "display(8)" loc = "p12";
+net "display(7)" loc = "p14";
+net "display(6)" loc = "p15";
+net "display(5)" loc = "p16";
+net "display(4)" loc = "p17";
+net "display(3)" loc = "p21";
+net "display(2)" loc = "p22";
+net "display(1)" loc = "p23";
+net "display(0)" loc = "p24";
